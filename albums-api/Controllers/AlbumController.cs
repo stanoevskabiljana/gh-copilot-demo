@@ -13,6 +13,7 @@ namespace albums_api.Controllers
     public class AlbumController : ControllerBase
     {
         // GET: api/album
+        // test
         [HttpGet]
         public IActionResult Get()
         {
